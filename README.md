@@ -2,7 +2,6 @@
 
 <h3 align="center">Salesforce Engineer · Computer Science Enthusiast · Faith-Driven Dev</h3>
 
-Follow me on social media
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -18,14 +17,14 @@ Follow me on social media
 ---
 
 ## 🚀 About Me  
-- 🔹 I build software on Salesforce platform  
+- 🔹 I build software on Salesforce platform professionally 
 - 🔹 I enjoy playing video games in free time
 - 🔹 I enjoy studying computers
 - 🔹 I pray and keep faith in Lord — it keeps me focused  
 
 ## 💡 What I'm Working On  
 - Improving Salesforce automations & integrations
-- Solving business problems for different businesses
+- Solving real business problems 
 - Learning to provide solutions with scalable architecture  
 - Personal projects & open-source contributions  
  
