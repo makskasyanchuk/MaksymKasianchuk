@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Maksym Kasianchuk
 
-<h3 align="center">Salesforce Engineer · Computer Science Enthusiast · Faith-Driven Dev</h3>
+<h3 align="center">Salesforce Engineer · Computer Science Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/maksim-kasyanchuk-01a19a2a9/" target="_blank">
@@ -20,7 +20,6 @@
 - 🔹 I build software on Salesforce platform professionally 
 - 🔹 I enjoy playing video games in free time
 - 🔹 I enjoy studying computers
-- 🔹 I pray and keep faith in Lord — it keeps me focused  
 
 ## 💡 What I'm Working On  
 - Improving Salesforce automations & integrations
